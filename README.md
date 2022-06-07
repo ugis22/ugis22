@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Eugenia - Data Scientist
+### Hi there 👋 , I'm Eugenia - Data Scientist & AI Consultant
 
 - 🔭 I’m currently working on developing a Data Science YouTube channel with free content
 - 🌱 I’m always trying to learn new things
