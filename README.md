@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Eugenia - Data Scientist & Machine Learning Engineer and Co-founder 
+### Hi there 👋 , I'm Eugenia - Data Scientist & Co-founder 
 
 - ✏️ You can read my stories in my [Medium Profile](https://medium.com/@eugeniainzaugarat)
 - 🌱 I’m always trying to learn new things
